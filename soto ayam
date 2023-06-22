@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title> Website Pertama Sulthan </title>
+    <title> TEST HTML LAGI </title>
     
 </head>
 <body>
@@ -40,9 +40,6 @@
     <li>Es Teh : 2.5k</li>
     <li>Es Jeruk : 2.5k</li>
 </ul>
-
-
-
 </body>
 
 <img width="180" height="150" src="https://akcdn.detik.net.id/community/media/visual/2017/03/22/d3cb3b7a-aa3a-4e0a-a0d4-83828a40b5d5_43.jpg?w=700&q=90"
@@ -50,6 +47,7 @@ alt="contoh soto pak mamat" />
 
 
 <body>
+    <!--JAM BUKA-->
     <h2 style="color:rgb(252, 253, 175)">
         Jam Buka
     </h2>
@@ -61,6 +59,7 @@ alt="contoh soto pak mamat" />
     </p>
 
 </body>
+
 <body>
     <h2 style="color:rgb(252, 253, 175)
 ">
@@ -69,12 +68,17 @@ Kenapa Soto Ayam Pak Mamat Enak?
     <p>
         karena lo wibu, selain itu soto ayam pak mamat juga di buat dari bahan pilihan dan exclusive dari 
         para petani kelas atas, Soto ayam pak mamat juga di berikan bumbu rahasia dari nenek moyang pak mamat sendiri,
-         soto pak mamat juga memenangkan lomba "Yogyakarta Soto Championship".
+         soto pak mamat juga memenangkan lomba "Yogyakarta Best Soto Championship".
     </p>
 </body>
 <body>
     <h2 style="color:rgb(252, 253, 175)">SEGERA  BELI!!!!</h2>
 </body>
+<p>
+    <h6>
+    berhadiah jika beruntung
+</h6>
+</p>
 <body>
     <p>
         <h3 style="color:rgb(252, 253, 175)">
@@ -96,6 +100,49 @@ Kenapa Soto Ayam Pak Mamat Enak?
         background-color: rgb(116, 97, 46);
     }
 </style>
+<BODY>
+    <p>
+        
+    </p>
+</BODY>
+<body>
+    <p>
+        Rusdi pernah makan pernah makan disini    
+    </p>
+</body>
+<body>
+    <p style="color:blue">
+        KHUSUS
+    </p>
+</body>
+<!--MESSAGE-->
+<script>
+    alert('BISMILLAH')
+</script>
 
-<video 
+<body>
+    <h1 style="color: rgb(252, 253, 175);">
+        Pesan Disini
+    </h1>
+
+    <p>
+        EMAIL
+    </p>
+    <input type="email">
+
+    <p>
+        ALAMAT
+    </p>
+    <input type="text">
+
+    <p>
+        No.HP
+    </p>
+    <input type="number">
+
+    <p>
+        MENU
+    </p>
+    <input type="checkbox">
+</body>
 </html>
